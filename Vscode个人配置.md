@@ -36,7 +36,7 @@ settings.json
 ````
 .eslintrc.js文件
 
-````JSON
+````javascript
 module.exports = {
   root: true,
   parserOptions: {
