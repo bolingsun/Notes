@@ -245,6 +245,7 @@ module.exports = {
   }
 }
 ````
+## 20191009号更新
 遇到visual studio code更新后，出现的eslin检测语法错误问题进行修复，重新配置：
 settings.json
 ````
